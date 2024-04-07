@@ -64,7 +64,7 @@ io.on("connect", (socket) => {
   });
 });
 
-server.listen(3400, () => {
+server.listen(3000, () => {
   console.log("Server is runing on 3400");
   connectToDB();
 });
