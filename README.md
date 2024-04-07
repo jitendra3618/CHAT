@@ -62,7 +62,7 @@ cd multiuser-chat-app
   <li>Start the server:</li>
 </ol>
 
-<pre><code>npm start
+<pre><code>npm index.js
 </code></pre>
 
 <p>5. Access the application in your browser at <code>http://localhost:3000</code>.</p>
